@@ -1,0 +1,1 @@
+{"type":"module","scripts":{"start":"node server.example.js"},"dependencies":{"@google/generative-ai":"latest","cors":"latest","express":"latest"}}
